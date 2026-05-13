@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[View my CV](https://ucsdcloud-my.sharepoint.com/:b:/g/personal/jhernandezleal_ucsd_edu/IQAlLLiMGeHcTLJkZpNPsZ02AWU-jyVPsu_hYCacgduk3KQ?e=m5K1dC)
+[View my CV]({{ base_path }}/files/CV_Juan_Hernandez.pdf)
